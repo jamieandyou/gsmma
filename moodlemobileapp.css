@@ -1,4 +1,4 @@
-ion-app.app-root .core-button-select.button-md, ion-app.app-root .core-button-select.select-md, ion-app.app-root ion-select.core-button-select.button-md, ion-app.app-root ion-select.core-button-select.select-md {
+ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-select {
     color: green;
 }
 
